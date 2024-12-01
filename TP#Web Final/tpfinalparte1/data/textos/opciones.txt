@@ -1,0 +1,5 @@
+Opción A: utilizar un árbol 
+Opción B: volver otro día.
+
+Opción A: aceptan
+Opción B: rechazan.

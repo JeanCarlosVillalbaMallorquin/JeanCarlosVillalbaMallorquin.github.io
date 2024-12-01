@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lora:ital,wght@0,400..700;1,400..700&family=Uncial+Antiqua&display=swap');
+
+h2,h3,h4{
+    font-family:  "Uncial Antiqua",serif;
+    
+}
+body{
+    background-color: rgb(121, 170, 76);
+    /*font-family: "Lora", serif;*/
+
+}
+
+header{
+    color: white;
+    background-color:#6c5c43;
+    height: 150px;
+    text-align: center;
+    padding-top: 50px;
+    font-family:  "Uncial Antiqua",serif;
+    
+
+}
+article{
+    background-color: white;
+    /*background-color: #dacf9d;*/
+    padding: 10px;
+    margin: 5px;
+}
+footer{
+    color: white;
+   /* background-color: rgb(233, 178, 0);*/
+   background-color: #6c5c43;
+    padding: 50px;
+    text-align: center;
+}
+.separacióndebarra{
+    margin: 5px;
+    
+}
